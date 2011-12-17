@@ -1,5 +1,7 @@
 # A widont plugin for Jekyll
 
+Based originally on an idea from Shaun Inman and a Rails helper provided by mucur.name.
+
 ## Installation
 
 Create a _plugins directory in your Jekyll site. Put the widont.rb file in the _plugins folder and restart your Jekyll process.
